@@ -1,0 +1,15 @@
+{
+  "name": "hw_4_js2",
+  "version": "1.0.0",
+  "description": "hw4 js2 goiteens",
+  "main": "main.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
